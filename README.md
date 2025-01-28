@@ -4,6 +4,7 @@
 <h1  align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <span align="left">
+  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39D353&center=true&random=false&width=435&lines=I+am+Yony;welcome+to+my+Github;Full+Stack+Developer;_React.js_Angular_React.Native_MongoDB)](https://git.io/typing-svg)
 <span/>
 
