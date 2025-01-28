@@ -40,7 +40,7 @@
           <img src="https://i.giphy.com/media/XEDIHHp3i8bVoEdxd7/200.webp" width="45" alt="Angular logo" />
 <!--           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" alt="TypeScript logo" /> -->
           <img src="https://i.giphy.com/media/Sr8xDpMwVKOHUWDVRD/200.webp" width="50" alt="Boostrap logo" />
-          <img src="https://i.giphy.com/media/JqDcpPX8vWahUny0pE/200.webp" width="72" alt="PHP logo" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb logo"  />
           <img src="https://cdn.worldvectorlogo.com/logos/symfony.svg" width="50" alt="Symfony logo" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL logo" />
         </td>
