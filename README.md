@@ -35,8 +35,8 @@
           <img src="https://i.giphy.com/media/XEDIHHp3i8bVoEdxd7/200.webp" width="45" alt="Angular logo" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
           <img src="https://github.com/oHTGo/oHTGo/blob/main/images/next.svg" alt="NextJS" height="50"/>
-          <img  height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-          <img height="40" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
+          <img  height="65" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+          <img height="45" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" alt="firebase logo"  />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb logo"  />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL logo" />
