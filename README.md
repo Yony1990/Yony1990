@@ -8,6 +8,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=2500&size=20&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+I'm+a+Full+Stack+Developer.">
 </p>-->
 
+<span align="center">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39D353&center=true&random=false&width=435&lines=I+am+Arshad;welcome+to+my+Github;Full+Stack+Developer;Node.js_React.js_MongoDB_Express.js)](https://git.io/typing-svg)
 <span/>
 
